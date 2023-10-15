@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: grey;
+  }
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  .header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+  }
+  .content {
+    padding: 20px;
+    background-color: #000;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  input {
+    margin-bottom: 10px;
+  }
+  button {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
